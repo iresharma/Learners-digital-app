@@ -4,7 +4,7 @@ An Edtech solution for PU students where they can visualize and learn basic topi
 
 ## Try it
 
-![https://play.google.com/store/apps/details?id=com.learners.digital](https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0)
+<a href="https://play.google.com/store/apps/details?id=com.learners.digital"><img src="https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0"></a>
 
 ## Tech Stack
 
@@ -47,7 +47,7 @@ All flutter packages for latex support use webviews, which completely makes sens
 
 | Home | Profile |
 |---|---|
-| <img src="./assets/home.jpeg" height="400px"> | <img src="./assets/profile.jpeg" height="400px"> |
+| <img src="./assets/Home.jpeg" height="400px"> | <img src="./assets/profile.jpeg" height="400px"> |
 
 #### Menus
 
